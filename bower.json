@@ -1,6 +1,6 @@
 {
   "name": "athena",
-  "description": "airport  lost and found app",
+  "description": "airport lost and found app",
   "homepage": "http://meanjs.org/",
   "license": "MIT",
   "dependencies": {
